@@ -39,7 +39,7 @@ int main() {
 			rectangle(img, pt1, pt2, Scalar(0, 0, 255), 2, 8, 0);
 		}
 
-		imwrite("E:\\gs\\output.jpg", img);
+		imwrite("E:\\gs\\output.jpg", img); // path where the sample input images are
 
 		cout << "Face Detected";
 	}
