@@ -1,6 +1,9 @@
 # Face Detection in Cpp
 
-## Sample
+### Sample
+![Alt Input](https://github.com/Abhaykushwah/FaceDetectioninCpp/blob/main/Face%20Recognisation/img/sample%20input.jpg)
+### Output
+![Alt Output](https://github.com/Abhaykushwah/FaceDetectioninCpp/blob/main/Face%20Recognisation/img/sample%20output.jpg)
 
 
 # OpenCV Face Detection C++ Project
