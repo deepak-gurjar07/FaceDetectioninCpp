@@ -43,19 +43,19 @@ To run the provided C++ code:
 1. Clone this repository to your local machine using Git:
 
     ```sh
-    git clone https://github.com/yourusername/opencv-face-detection.git
+    git clone https://github.com/deepak-gurjar07/FaceDetectioninCpp   
     ```
 
 2. Navigate to the project directory:
 
     ```sh
-    cd opencv-face-detection
+    cd "FaceDetectioninCpp\Face Recognisation\Face Recognisation"
     ```
 
 3. Compile the code using your C++ compiler:
 
     ```sh
-    g++ -o main main.cpp `pkg-config --cflags --libs opencv`
+    g++ -o main FD.cpp `pkg-config --cflags --libs opencv`
     ```
 
 4. Run the compiled executable:
